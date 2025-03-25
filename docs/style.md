@@ -43,7 +43,7 @@ export default LotsOfStyles;
 
 One common pattern is to make your component accept a `style` prop which in turn is used to style subcomponents. You can use this to make styles "cascade" the way they do in CSS.
 
-There are a lot more ways to customize the text style. Check out the [Text component reference](text.md) for a complete list.
+There are a lot more ways to customize the text style. Check out the [Text component reference](text.md) for a complete list..
 
 Now you can make your text beautiful. The next step in becoming a style expert is to [learn how to control component size](height-and-width.md).
 
